@@ -1,0 +1,5 @@
+what is python?,python is a high-level interpreted interactive and object-oriented scripting language. python is designed to be highly readable. it uses english keywords frequently where as other languages use punctuation.
+name some of the features of python. , easy to code free and open source object oeriented language large standard libraries gui libraries interpreted
+is python a case sensitive language?,yes! python is a case sensitive programming language.
+what are the supported data types in python?,numbers string list tuple dictionary
+how will you capitalizes first letter of string?,capitalize() - capitalizes first letter of string.

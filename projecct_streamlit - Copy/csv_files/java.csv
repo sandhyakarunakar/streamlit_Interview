@@ -1,0 +1,5 @@
+list two java ide ?,netbeans eclipse etc.
+what is a class variable?,these are variables declared with in a class outside any method with the static keyword.
+what do you mean by constructor?,constructor gets invoked when a new object is created. every class has a constructor. 
+list any five features of java?,some features include object oriented platform independent robust interpreted multi-threaded
+what is an exception?,an exception is a problem that arises during the execution of a program. exceptions are caught by handlers positioned along the thread's method invocation stack.
